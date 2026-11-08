@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 給面試官的快速啟動指南 (Quick Start & Database Setup)
+## 🚀 快速啟動指南 (Quick Start & Database Setup)
 
 為了讓您下載專案後能直接編譯並體驗完整資料與圖表，專案內已附贈完整的 **`CoffeeShop` 資料庫檔案**（位於 [`Database/`](./Database) 資料夾中），提供以下兩種匯入方式（**二選一即可**）：
 
@@ -129,5 +129,6 @@ SmartCoffeeSystem/
 
 - **GitHub Repository**: [https://github.com/sheng118137/SmartCoffeeSystem](https://github.com/sheng118137/SmartCoffeeSystem)
 - **架構與命名規範文件**: [ARCHITECTURE.md](./ARCHITECTURE.md)
-#   S m a r t C o f f e e S y s t e m  
+#   S m a r t C o f f e e S y s t e m 
+ 
  
