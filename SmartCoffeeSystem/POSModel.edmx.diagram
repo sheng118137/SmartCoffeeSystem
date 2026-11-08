@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8f0410f5ce73433ea63628c2fe019b9c" Name="Diagram1" ZoomLevel="84">
+        <EntityTypeShape EntityType="CoffeeShopModel.Category" Width="1.5" PointX="0.5" PointY="0.75" />
+        <EntityTypeShape EntityType="CoffeeShopModel.Member" Width="1.5" PointX="2.125" PointY="0.75" />
+        <EntityTypeShape EntityType="CoffeeShopModel.OrderDetail" Width="1.5" PointX="3.75" PointY="0.75" />
+        <EntityTypeShape EntityType="CoffeeShopModel.Order" Width="1.5" PointX="2" PointY="3.625" />
+        <EntityTypeShape EntityType="CoffeeShopModel.ProductOptionGroup" Width="1.5" PointX="3.625" PointY="3.625" />
+        <EntityTypeShape EntityType="CoffeeShopModel.ProductOptionItem" Width="1.5" PointX="5.25" PointY="3.625" />
+        <EntityTypeShape EntityType="CoffeeShopModel.ProductOptionMapping" Width="1.5" PointX="5.375" PointY="0.75" />
+        <EntityTypeShape EntityType="CoffeeShopModel.Product" Width="1.5" PointX="6.875" PointY="3.625" />
+        <EntityTypeShape EntityType="CoffeeShopModel.LoginLog" Width="1.5" PointX="10.125" PointY="0.75" />
+        <EntityTypeShape EntityType="CoffeeShopModel.Account" Width="3" PointX="7" PointY="0.75" />
+        <EntityTypeShape EntityType="CoffeeShopModel.MemberLevel" Width="1.5" PointX="10.125" PointY="3.625" />
+        <EntityTypeShape EntityType="CoffeeShopModel.EmployeePermission" Width="1.5" PointX="11.75" PointY="6" />
+        <EntityTypeShape EntityType="CoffeeShopModel.Employee" Width="1.5" PointX="8.5" PointY="3.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
