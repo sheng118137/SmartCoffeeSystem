@@ -129,6 +129,3 @@ SmartCoffeeSystem/
 
 - **GitHub Repository**: [https://github.com/sheng118137/SmartCoffeeSystem](https://github.com/sheng118137/SmartCoffeeSystem)
 - **架構與命名規範文件**: [ARCHITECTURE.md](./ARCHITECTURE.md)
-#   S m a r t C o f f e e S y s t e m 
- 
- 
